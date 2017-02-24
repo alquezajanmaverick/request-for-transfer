@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsSchools" value="name:School_ID;datatype:int,name:Level;datatype:string,name:Municipality;datatype:string,name:School_Name;datatype:string" />
+	<infoitem key="UD_rsDistrict" value="name:Municipality;datatype:string" />
+	<infoitem key="UD_rsLevel" value="name:Level;datatype:string" />
+</info>

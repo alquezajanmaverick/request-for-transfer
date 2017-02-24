@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsLevel" value="name:Level;datatype:string" />
+	<infoitem key="UD_rsMunicipality" value="name:Municipality;datatype:string" />
+	<infoitem key="UD_rsSchoolID" value="name:School_ID;datatype:int" />
+	<infoitem key="UD_rsschName" value="name:School_Name;datatype:string" />
+	<infoitem key="UD_schName" value="name:School_Name;datatype:string" />
+	<infoitem key="UD_rsName" value="name:School_Name;datatype:string" />
+	<infoitem key="UD_rsID" value="name:School_ID;datatype:int" />
+	<infoitem key="UD_rsLevel2" value="name:Level;datatype:string" />
+	<infoitem key="UD_rsDistrict2" value="name:Municipality;datatype:string" />
+	<infoitem key="UD_rsName2" value="name:School_Name;datatype:string" />
+	<infoitem key="UD_rsID2" value="name:School_ID;datatype:int" />
+	<infoitem key="UD_rsLevel3" value="name:Level;datatype:string" />
+	<infoitem key="UD_rsDistrict" value="name:Municipality;datatype:string" />
+	<infoitem key="UD_rsName3" value="name:School_Name;datatype:string" />
+	<infoitem key="UD_rsDistrict3" value="name:Municipality;datatype:string" />
+	<infoitem key="UD_rsID3" value="name:School_ID;datatype:int" />
+</info>

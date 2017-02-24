@@ -1,0 +1,1 @@
+ErrorDocument 404 http://localhost/request-for-transfer/index.php
